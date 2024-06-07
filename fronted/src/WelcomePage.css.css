@@ -1,0 +1,30 @@
+.welcome-container {
+    text-align: center;
+    margin-top: 100px; /* Регулируйте отступ сверху в зависимости от дизайна */
+}
+
+.welcome-container h1 {
+    font-size: 3rem;
+    color: #333;
+}
+
+.welcome-container p {
+    font-size: 1.5rem;
+    color: #666;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
